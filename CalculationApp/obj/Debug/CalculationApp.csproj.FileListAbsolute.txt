@@ -1,0 +1,6 @@
+C:\Users\bstri\source\repos\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe.config
+C:\Users\bstri\source\repos\CalculationApp\CalculationApp\bin\Debug\CalculationApp.exe
+C:\Users\bstri\source\repos\CalculationApp\CalculationApp\bin\Debug\CalculationApp.pdb
+C:\Users\bstri\source\repos\CalculationApp\CalculationApp\obj\Debug\CalculationApp.csprojAssemblyReference.cache
+C:\Users\bstri\source\repos\CalculationApp\CalculationApp\obj\Debug\CalculationApp.exe
+C:\Users\bstri\source\repos\CalculationApp\CalculationApp\obj\Debug\CalculationApp.pdb
